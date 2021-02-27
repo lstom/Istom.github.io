@@ -806,8 +806,7 @@ textarea {
 
 body {
     overflow-y: hidden;
-    /* background: #eaeaea */
-    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('img/left.jpg') no-repeat 0% 0%/ cover;
+    background: #eaeaea
 }
 
 #container,
